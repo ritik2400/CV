@@ -1,2 +1,2 @@
 # CV
-A short portfolio website
+A short portfolio website made in just HTML.
